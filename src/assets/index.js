@@ -1,4 +1,7 @@
-import logo from "./logo.svg";
+import logo from "./logo.png";
+import golf_clubs from "./golf_clubs.webp";
+import golf_scores from "./golf_scores.webp";
+import golf_courses from "./golf_courses.webp";
 import backend from "./backend.png";
 import creator from "./creator.png";
 import mobile from "./mobile.png";
@@ -43,6 +46,9 @@ import wedge from "./tech/git.png";
 
 export {
   logo,
+  golf_clubs,
+  golf_scores,
+  golf_courses,
   backend,
   creator,
   mobile,

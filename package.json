@@ -10,8 +10,11 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@mui/material": "^6.3.1",
-    "@react-three/drei": "^9.120.7",
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.0",
+    "@mui/icons-material": "^6.4.1",
+    "@mui/material": "^6.4.1",
+    "@react-three/drei": "^9.120.8",
     "@react-three/fiber": "^8.17.12",
     "dayjs": "^1.11.13",
     "framer-motion": "^11.17.0",
@@ -23,6 +26,7 @@
     "react-router-dom": "^7.1.1",
     "react-tilt": "^1.0.2",
     "recharts": "^2.15.0",
+    "three": "^0.172.0",
     "uuid": "^11.0.5"
   },
   "devDependencies": {
